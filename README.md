@@ -1,13 +1,14 @@
-# Portfolio
-My data analytics portfolio featuring projects in data cleaning, statistical analysis, data visualization, and business insights.
+# Data Analyst Portfolio
 
 Hi! I'm an Actuarial Science graduate interested in data analytics, statistical analysis, and data visualization.
-Skills
+
+**Skills**
 - Microsoft Excel
 - R Programming
 - Data Visualization
 - Statistical Analysis
-Projects
+
+**Projects**
 - Sales Data Analysis
 - Data Visualization Dashboard
 - Statistical Analysis with R
