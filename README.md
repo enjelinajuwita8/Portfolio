@@ -8,7 +8,6 @@ Hi! I'm an Actuarial Science graduate interested in data analytics, statistical 
 - Data Visualization
 - Statistical Analysis
 
-**Projects**
 ## Projects
 
 ### Sales Data Analysis Dashboard
