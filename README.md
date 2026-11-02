@@ -17,3 +17,10 @@ An interactive dashboard built with Google Looker Studio to analyze sales perfor
 **Tools:** Google Looker Studio, Google Sheets
 
 [View Interactive Dashboard](https://bit.ly/4z8FlOH)
+
+### Employee Payroll Data Analysis
+
+An Excel-based employee payroll analysis project designed to automate employee data processing, calculate salaries, overtime pay, allowances, deductions, and net income. The project also includes employee classification, length of service calculations, and cash denomination breakdowns.
+
+**Tools:** Microsoft Excel
+**Key Skills:** Excel Formulas, Data Processing, Payroll Calculation, Data Analysis
